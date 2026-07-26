@@ -3,7 +3,7 @@ module github.com/llm-d-incubation/batch-gateway
 go 1.25
 
 require (
-	github.com/alicebob/miniredis/v2 v2.36.0
+	github.com/alicebob/miniredis/v2 v2.38.0
 	github.com/aws/aws-sdk-go-v2 v1.41.1
 	github.com/aws/aws-sdk-go-v2/config v1.32.7
 	github.com/aws/aws-sdk-go-v2/credentials v1.19.7
