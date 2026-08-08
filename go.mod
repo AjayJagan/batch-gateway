@@ -15,7 +15,7 @@ require (
 	github.com/redis/go-redis/v9 v9.17.2
 	github.com/stretchr/testify v1.11.1
 	gopkg.in/yaml.v3 v3.0.1
-	k8s.io/klog/v2 v2.130.1
+	k8s.io/klog/v2 v2.140.0
 )
 
 require (
